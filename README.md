@@ -17,4 +17,4 @@ Customer’s opinions have always been an important piece of information in deci
 ## Features
 This project folder contains:
 * [Presentation](#)
-* [Paper](#)
+* [Paper](https://github.com/YangyangJia1/sentiment_polarity_analysis_of-chinese_movie_reviews/tree/master/files/paper)
